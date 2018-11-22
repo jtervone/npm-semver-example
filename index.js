@@ -1,4 +1,4 @@
-import { version } from "./package.json";
+import { version } from "./package";
 
 const app = document.querySelector("#app");
 
