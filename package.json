@@ -8,8 +8,5 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Jarkko Tervonen <jarkko.tervonen@gmail.com>",
-  "license": "GPL",
-  "devDependencies": {
-    "parcel-bundler": "^1.10.3"
-  }
+  "license": "GPL"
 }
